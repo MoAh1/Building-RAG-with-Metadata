@@ -14,6 +14,7 @@ This repository contains **code and instructions** for building a **Retrieval-Au
 ## **📖 Features**
 ✔️ **Vector Database Creation** – Stores documents as embeddings with metadata.  
 ✔️ **Source Attribution** – Retrieves answers with citations (link to the source & page number). 
+
 ✔️ **Scalable & Extendable** – Can be adapted for a large folder of text files.  
 
 
